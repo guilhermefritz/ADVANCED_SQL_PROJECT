@@ -4,7 +4,7 @@
 
 
 
-# 🎮 Global Video Game Sales: Advanced SQL Analysis
+# 🎮 Global Video Game Sales
 ## Este projeto tem como objetivo explorar o conjunto de dados de vendas globais de jogos por meio de consultas SQL avançadas utilizando a plataforma Databricks.
 
 ## Ao longo do projeto, foram aplicadas técnicas como subconsultas, funções de janela, CTEs e agregações para gerar insights sobre os padrões de vendas ao longo do tempo, plataformas com maior faturamento, e as distribuições por regiões.
